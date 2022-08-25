@@ -1,0 +1,8 @@
+C:\Users\student\Documents\Visual Studio 2008\Projects\fileManager\fileManager\bin\Debug\fileManager.exe
+C:\Users\student\Documents\Visual Studio 2008\Projects\fileManager\fileManager\bin\Debug\fileManager.pdb
+C:\Users\student\Documents\Visual Studio 2008\Projects\fileManager\fileManager\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\student\Documents\Visual Studio 2008\Projects\fileManager\fileManager\obj\Debug\fileManager.Form1.resources
+C:\Users\student\Documents\Visual Studio 2008\Projects\fileManager\fileManager\obj\Debug\fileManager.Properties.Resources.resources
+C:\Users\student\Documents\Visual Studio 2008\Projects\fileManager\fileManager\obj\Debug\fileManager.csproj.GenerateResource.Cache
+C:\Users\student\Documents\Visual Studio 2008\Projects\fileManager\fileManager\obj\Debug\fileManager.exe
+C:\Users\student\Documents\Visual Studio 2008\Projects\fileManager\fileManager\obj\Debug\fileManager.pdb
